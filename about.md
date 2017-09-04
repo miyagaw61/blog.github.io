@@ -30,6 +30,7 @@ permalink: /about/
 * Practical Malware Analysis翻訳中. 英語頑張ってます  
 * これを読み終わったらIoT Hackers Handbookが待っている...  
 * Rust入門したい  
+* 最近はスマートフォンのアプリの脆弱性診断をするツールとかRustで作ってみたいなーとか思ってます
 
 ### 活動
 * SkyArchNetworksインターン生  
