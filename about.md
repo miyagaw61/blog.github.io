@@ -39,6 +39,6 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
-[Twitter](https://twitter.com/miyagaw61)
-[GitHub](https://github.com/miyagaw61)
+* [email@domain.com](mailto:email@domain.com)
+* [Twitter](https://twitter.com/miyagaw61)
+* [GitHub](https://github.com/miyagaw61)
