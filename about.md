@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-* NAME: miyagaw61
-* AGE: 0x13
-* School: ISC
-* Team: IPFactory/mochigoma/T1pst4r
-* CTF: Binary(Reversing/Exploit)
+* NAME   : miyagaw61
+* AGE    : 0x13
+* School : ISC
+* Team   : IPFactory/mochigoma/T1pst4r
+* CTF    : Binary(Reversing/Exploit)
 
 ### 勉強中
 * プログラミング(C/Python/Rust)
