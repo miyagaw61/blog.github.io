@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+* 元のブログ
+[はてなブログ](http://ta1se1.hatenablog.com)
+
 * NAME   : miyagaw61
 * AGE    : 0x13
 * School : ISC
