@@ -1,0 +1,60 @@
+  283  mkdir .ssh
+  287  chmod 700 .ssh
+  288  cd .ssh
+```PuttyGen # make ssh keys
+1. Generate
+2. guriguri
+3. copy #secret key
+4. go to gitlab -> profile settings -> SSH Keys -> Add SSH Key -> paste 
+5. conversion
+6. export OpenSSH key #public key
+7. copy OpenSSH key
+8. $ cat > id_rsa #paste
+```
+  293  chmod 600 id_rsa 
+  295  vim config
+```
+Host git.skyarch.net
+    HostName git.skyarch.net
+    Port 10022
+    IdentityFile ~/.ssh/id_rsa
+    User git
+```
+
+
+
+例外処理の条件分岐を先頭に書く
+変数は使う直前で宣言
+例外があってもとりあえずすべて回したい場合：例外をメモしてcontinue、もしくはexceptでキャッチしてlogを残す
+for文で回せる部分はfor分で行う（存在したら消す存在したら消すを繰り返す処理は配列を引数に渡してfor文を回すetc
+
+
+できるだけネストさせない
+（例）
+for:
+	if hogehoge:
+		fuga
+		fuga
+
+->
+
+for:
+	if not hogehoge:
+		continue
+	fuga
+	fuga
+
+
+関数の中にできるだけif文を含まない
+
+同じ分岐は外に出して何回も書かないようにする
+
+
+
+ディペンでんしーインジェクション
+
+
+pythonクオート
+docstring
+http://ymotongpoo.hatenablog.com/entry/20110121/1295600805
+
